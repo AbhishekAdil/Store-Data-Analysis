@@ -26,3 +26,4 @@ Following are the steps:
 5. Making Report
 6. Insights and Next Step
 
+![Store Data Analytics Dashborad](https://github.com/user-attachments/assets/ec56968f-50d9-410b-9411-4ba2daa79026)
